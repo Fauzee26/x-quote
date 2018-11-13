@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/asqq"
+    android:padding="40dp"
+    tools:context="fauzi.hilmy.app11.AboutApp">
+
+    <TextView
+        android:id="@+id/about"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="#74000000"
+        android:fontFamily="@font/bubblegum_sans"
+        android:gravity="center"
+        android:text="about app"
+        android:textAllCaps="true"
+        android:textColor="@android:color/white"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/isi"
+        android:layout_width="400dp"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/aqw"
+        android:layout_below="@id/about"
+        android:layout_marginTop="10dp"
+        android:background="#74000000"
+
+        android:fontFamily="@font/bubblegum_sans"
+        android:paddingBottom="8dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="8dp"
+        android:text="@string/aboutt"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        android:textStyle="normal" />
+
+    <TextView
+        android:id="@+id/aqw"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="16dp"
+        android:background="#74000000"
+        android:ellipsize="marquee"
+        android:fontFamily="@font/bubblegum_sans"
+        android:gravity="center"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:padding="10dp"
+        android:scrollHorizontally="true"
+        android:singleLine="true"
+        android:text="@string/watermark"
+        android:textColor="@android:color/white"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

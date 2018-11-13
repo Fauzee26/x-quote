@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">xQuote</string>
+    <string name="aboutt">\t xQuote adalah aplikasi yang dibuat untuk memudahkan user untuk mendapatkan quote-quote yang bagus untuk dipakai sebagai tagline ataupun caption karena seluruh quote yang ada di dalam aplikasi memiliki makna yang bagus dan dibuat seluruhnya berbahasa inggris. Selain itu, quote-quote yang ada didapat dari sumber terpercaya dan dikutip oleh perkataan dari tokoh-tokoh besar yang terkemuka sepanjang masa seperti Albert Einstein, Thomas Alva Edison dan tokoh-tokoh lainnya yang telah dikenal dengan baik oleh masyarakat ramai. Selain itu, quote-quote yang ada di dalam aplikasi ini dapat dengan mudah di copy-paste dengan hanya memencet tombol yang ada.</string>
+    <string name="watermark">Data Provided By Quotes Design, Image and Resource Provided by Flat Icon and Pinterest</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Mudah Digunakan</string>
+    <string name="slide_1_desc">Aplikasi Yang Dapat Dengan Mudah Digunakan dan Jelajahi Apa Saja Yang Ada Didalamnya</string>
+
+    <string name="slide_2_title">Copy And Paste</string>
+    <string name="slide_2_desc">Kamu Juga Dapat Dengan Mudah Copy Paste Quote Yang Ada Hanya Dengan Klik 1 Tombol</string>
+
+    <string name="slide_3_title">Sumber Yang Dipercaya</string>
+    <string name="slide_3_desc">Seluruh Quote Yang Ada Didalam Aplikasi Ini berasal Dari Sumber Yang Terpercaya dan Berbobot</string>
+    <string name="quote_it">QUOTE IT</string>
+    <string name="xquote">xQuote</string>
+</resources>
